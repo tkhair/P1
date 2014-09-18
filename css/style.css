@@ -1,0 +1,28 @@
+body { margin-left: 5%; margin-right: 5%; margin-bottom: 3%; }
+
+.photo{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 30%;
+
+}
+.tabs{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 70%;
+}
+.content{
+	display: block;
+   position: relative;
+   overflow: hidden;
+   width: 100%;
+}
+
+.footer{
+	width: 100%;
+	border-top: thin dotted #D1D0CE;
+}
+
+
