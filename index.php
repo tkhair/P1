@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CSCI E-15 - Tatiana Khair</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +24,7 @@
     </ul>
 
     <!-- Tab panes -->
-    <div class="tab-content"  width=70%>
+    <div class="tab-content">
       <div class="tab-pane active" id="p2">    
         Available on Oct 3, 2014<br/>
         View: <a href="http://cscie15p2.khair.co/">http://cscie15p2.khair.co/</a> <br/>
@@ -64,7 +63,7 @@
 
 <div class="footer">
     <p>(c) Tatiana Khair 2014<br/>
-    This page have been developed in-line with Assignment 1 requirements of CSCI E-15 class at Harvard Extension School</p
+    This page have been developed in-line with Assignment 1 requirements of CSCI E-15 class at Harvard Extension School</p>
 </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
