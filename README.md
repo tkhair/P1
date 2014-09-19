@@ -1,10 +1,6 @@
 P1
 ==
 
-
-Live URL http://cscie15p1.khair.co/
-Github https://github.com/tkhair/P1
-
 # CSCI E-15 P1 by Tatiana Khair
 
 ## Live URL
@@ -17,4 +13,4 @@ Project 1 for CSCI E-15 class: portfolio with links to all future projects.
 <https://github.com/tkhair/P1>
 
 ## Outside code
-* Bootstrap: http://getbootstrap.com/
+Bootstrap: http://getbootstrap.com/
