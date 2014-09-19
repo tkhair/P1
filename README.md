@@ -9,7 +9,7 @@ P1
 ## Description
 Project 1 for CSCI E-15 class: portfolio with links to all future projects.
 
-## Demo
+## Github
 <https://github.com/tkhair/P1>
 
 ## Outside code
