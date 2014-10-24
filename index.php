@@ -28,10 +28,12 @@
       <div class="tab-pane active" id="p2">    
         Available on Oct 3, 2014<br/>
         View: <a href="http://cscie15p2.khair.co/">http://cscie15p2.khair.co/</a> <br/>
+        Demo: <a href="http://cscie15p2.khair.co/demop2.swf">http://cscie15p2.khair.co/demop2.swf</a> <br/>
         Github: <a href="https://github.com/tkhair/P2">https://github.com/tkhair/P2</a></div>
       <div class="tab-pane" id="p3">
         Available on Oct 24, 2014<br/>
         View: <a href="http://cscie15p3.khair.co/">http://cscie15p3.khair.co/</a> <br/>
+        Demo: <a href="http://cscie15p3.khair.co/demop3.swf">http://cscie15p3.khair.co/demop3.swf</a> <br/>
         Github: <a href="https://github.com/tkhair/P3">https://github.com/tkhair/P3</a> 
       </div>
       <div class="tab-pane" id="p4">    
